@@ -4,9 +4,9 @@
 ## 功能描述
 通过com4j将链接批量发送给IDM进行下载
 ## 实现方式
-1.<a href="http://www.internetdownloadmanager.com/support/download/IDMCOMAPI.zip" rel="nofollow">下载API</a>
-2.通过使用TlbImp.jar将IDManTypeInfo.tlb文件转换为ClassFactory、ICIDMLinkTransmitter。
-3.关键调用方法
+<p>1.<a href="http://www.internetdownloadmanager.com/support/download/IDMCOMAPI.zip" rel="nofollow">下载API</a></p>
+<p>2.通过使用com4j中的TlbImp.jar将IDManTypeInfo.tlb文件转换为ClassFactory、ICIDMLinkTransmitter。</p>
+<p>3.关键调用方法</p>
  <pre><code> IDMLinkTransfer(String URL,//URL
      String Referer, //Referer
      String Cookies, //Cookies
