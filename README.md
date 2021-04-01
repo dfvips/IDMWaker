@@ -6,7 +6,7 @@
 ## 实现方式
 <p>1.<a href="http://www.internetdownloadmanager.com/support/download/IDMCOMAPI.zip" rel="nofollow">下载API</a></p>
 <p>2.通过使用com4j中的TlbImp.jar将IDManTypeInfo.tlb文件转换为ClassFactory、ICIDMLinkTransmitter。</p>
-<p>3.关键调用方法</p>
+<p>3.关键调用方法
  <pre><code> IDMLinkTransfer(String URL,//URL
      String Referer, //Referer
      String Cookies, //Cookies
@@ -19,6 +19,6 @@
      Object UserAgent,//UserAgent,
      Object Other
     );
-</code></pre>
+</code></pre></p>
 ## <a href="https://github.com/nilaoda/IDMWaker" rel="nofollow">C#和GUI版指引</a>
-
+## <a href="https://github.com/kohsuke/com4j" rel="nofollow">com4j指引</a>
