@@ -20,5 +20,7 @@
      Object Other
     );
 </code></pre></p>
-## <a href="https://github.com/nilaoda/IDMWaker" rel="nofollow">C#和GUI版指引</a>
-## <a href="https://github.com/kohsuke/com4j" rel="nofollow">com4j指引</a>
+## C#和GUI版指引
+<p><a href="https://github.com/nilaoda/IDMWaker" rel="nofollow">C#和GUI版指引</a></p>
+## com4j指引 
+<p><a href="https://github.com/kohsuke/com4j" rel="nofollow">com4j指引</a></p>
