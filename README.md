@@ -1,4 +1,4 @@
-# IDMWaker By Java
+# IDMWaker With Java
  Java调用IDM的api添加任务
  
 ## 功能描述
